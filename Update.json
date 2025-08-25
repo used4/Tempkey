@@ -2,7 +2,7 @@
 
   "version_code": 2,
 
-  "title_update": "Update Available",
+  "title_update": "Update Available Now⚠️",
 
   "title_made_by": "Used4",
 
@@ -34,6 +34,6 @@
 
   "update_link": "https://example.com/update",
 
-  "dialog_exit_on_false": true
+  "dialog_exit_on_false": false 
 
 }
