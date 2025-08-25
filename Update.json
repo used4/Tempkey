@@ -1,5 +1,5 @@
 {
-  "show_dialog": false,
+  "show_dialog": true,
   "version_code": 2,
   "title_update": "Update Available",
   "title_made_by": "DPMods",
@@ -17,5 +17,5 @@
   ],
   "telegram_link": "https://t.me/your_channel",
   "update_link": "https://example.com/update",
-  "dialog_exit_on_false": false 
+  "dialog_exit_on_false": true 
 }
